@@ -3,7 +3,7 @@
 This project aims integrate due dates from the senior project website designed by Professor Dan Tappen into Canvas. 
 I wrote this specifically because I continuously forget to check the website.
 
-# Setup Process
+# Installation
 
 To get this working you need to generate an access token for your account in Canvas.
 ```
