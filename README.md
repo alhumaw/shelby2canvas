@@ -18,8 +18,9 @@ To make things easy:
 ```
 git clone https://github.com/alhumaw/shelby2canvas
 cd shelby2canvas
+python3 -m venv venv
+source venv/bin/activate
 pip install -r requirements.txt
-touch .env
 echo "API_KEY=KEYHERE" > .env
 python3 app.py
 ```
