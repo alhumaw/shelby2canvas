@@ -18,6 +18,7 @@ To make things easy:
 ```
 git clone https://github.com/alhumaw/shelby2canvas
 cd shelby2canvas
+pip install requirements.txt
 touch .env
 echo "API_KEY=KEYHERE" > .env
 python3 app.py
